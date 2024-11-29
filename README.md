@@ -83,4 +83,4 @@ I love experimenting with AI models, and I believe the future of *Generative AI*
 ---
 
 ### 📬 Reach me via:
-- *Email*: [ziaulislammughal@gmail.com](mailto:ziaulislammughal@gmail.com)
+- *Email*: [ziamughal132@gmail.com](mailto:ziamughal132@gmail.com)
