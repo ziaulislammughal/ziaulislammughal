@@ -1,9 +1,9 @@
 # 💫 About Me:
-- 🔬 *AI Engineer* specializing in *Machine Learning (ML), **Deep Learning (DL), and **Generative AI*.
-- 🧑‍🎓 Currently pursuing an *Undergraduate degree in BS Artificial Intelligence* at *NUEXUS Technologies*.
+- 🔬 *AI Engineer* specializing in *Machine Learning (ML), **Deep Learning (DL)**, and **Generative AI**.
+- 🧑‍🎓 Currently pursuing an *Undergraduate degree in BS Artificial Intelligence* at *UAJK KING ABDULLAH CAMPUS*.
 - 📊 Passionate about building AI models, solving real-world problems, and sharing knowledge through content creation.
-- 🌱 I’m always learning new technologies in *AI, **Python, and **Generative AI*.
-- 🤝 I’m open to collaborations on AI projects and discussions on *Machine Learning, **Deep Learning, and **Generative AI*.
+- 🌱 I’m always learning new technologies in **AI**, **Python**, and **Generative AI**.
+- 🤝 I’m open to collaborations on AI projects and discussions on *Machine Learning, **Deep Learning, and **Generative AI**.
 
 ## 🏆 Achievements & Highlights
 - 🏅 *Campus Director* at *DEN-UAJK*
