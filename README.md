@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔬 *AI Engineer* specializing in *Machine Learning (ML)**, **Deep Learning (DL)**, and **Generative AI**.
+- 🔬 *AI Engineer* specializing in **Machine Learning (ML)**, **Deep Learning (DL)**, and **Generative AI**.
 - 🧑‍🎓 Currently pursuing an *Undergraduate degree in BS Artificial Intelligence* at *UAJK KING ABDULLAH CAMPUS*.
 - 📊 Passionate about building AI models, solving real-world problems, and sharing knowledge through content creation.
 - 🌱 I’m always learning new technologies in **AI**, **Python**, and **Generative AI**.
